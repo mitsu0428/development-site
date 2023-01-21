@@ -4,10 +4,8 @@ import styled from 'styled-components'
 function HomePage() {
     return (
         <Container>
-            <DefaultTitle>Welcome to tetete</DefaultTitle>
-            <DefaultText>
-                これから最高のページになっていくよ!ててて!
-            </DefaultText>
+            <DefaultTitle>Welcome to Hello</DefaultTitle>
+            <DefaultText>これからいい感じのページになっていくよ!</DefaultText>
         </Container>
     )
 }
